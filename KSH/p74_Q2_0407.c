@@ -10,3 +10,5 @@ int main(void)
     scanf("%d*%d+%d=%d \n", num1, num2, num3, result1);
     return 0;
 }
+
+//계속 수정 중
